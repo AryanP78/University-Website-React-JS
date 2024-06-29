@@ -47,7 +47,7 @@ const Testimonials = () => {
                 <div className="slide">
                     <div className="user-info">
                         <img src={user_1} alt="" />
-                        <h3>John Cena</h3>
+                        <h3>Aryan  Punia</h3>
                         
 
                 </div>
